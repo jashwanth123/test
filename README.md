@@ -19,12 +19,6 @@ Downloads/gharchive (Relative path)
 
 ## Usage
 
-Download the ipynb file and open it using jupyter notebook and we can run it cell wise to get the output
+Download the ipynb file and open it using jupyter notebook and run the cells to get the output
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
